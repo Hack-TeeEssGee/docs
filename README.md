@@ -1,6 +1,6 @@
 # Installation Guide for KGPverse
 
-This is a comphrehesive guide on installing and running frontend and backend of the website on your machine. It is majorly written in Javascript, Shell, Node 14.18.0
+This is a comphrehesive guide on installing and running frontend and backend of the website on your machine. It is majorly written in [Javascript](https://www.javascript.com/), Shell, [Node 14.18.0](https://nodejs.org/ca/blog/release/v14.18.0/)
 
 **Dependencies**
 The project uses the following packages or Platforms that may have been used to serve the data.
@@ -22,8 +22,8 @@ The project uses the following packages or Platforms that may have been used to 
 
 **Basic Setup**
 Clone the respective repositories from the following links:
-[Front End]()
-[Back End]()
+[Front End](https://github.com/Hack-TeeEssGee/frontend)
+[Back End](https://github.com/Hack-TeeEssGee/backend-node)
 
 **Front End**
 It's written mainly in React which uses React
@@ -42,7 +42,7 @@ It's mainly written in Yarn , Node 14.18.0
 
 - run Yarn to install all node modules
 - Run ```yarn start```  to start the backend server of local machine
-- For dev , server replace BACKEND_URL with http://localhost:8000
+- For dev, server replace BACKEND_URL with http://localhost:8000
 - and Frontend_URL to http://localhost:3000
 
 > You can visit the respective READMEs for [Front End](https://github.com/Hack-TeeEssGee/frontend/blob/master/README.md), [Back End](https://github.com/Hack-TeeEssGee/backend/blob/master/README.md) and [Back End Node](https://github.com/Hack-TeeEssGee/backend-node/blob/master/README.md).
